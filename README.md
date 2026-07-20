@@ -1,4 +1,4 @@
-#Hi, I'm Tanvi Anumandla! 👋
+Hi, I'm Tanvi Anumandla! 👋
 
 I'm an incoming Computer Science at the University of Illinois Urbana-Champaign! 🎓
 
